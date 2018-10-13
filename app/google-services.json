@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "872627461783",
+    "firebase_url": "https://ambulancetracking-5bf5b.firebaseio.com",
+    "project_id": "ambulancetracking-5bf5b",
+    "storage_bucket": "ambulancetracking-5bf5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872627461783:android:d0de43da4a036841",
+        "android_client_info": {
+          "package_name": "com.example.khokan.ambulancebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872627461783-elnu0otv61rpql4914np4sed0cru5vsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khokan.ambulancebd",
+            "certificate_hash": "207a8840446b03a0c0896e7f8aa13b8758b8bda8"
+          }
+        },
+        {
+          "client_id": "872627461783-bpl43j5hrfcv91arjd1mmrcfj50mv1ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDciqXU5vWrnogccUCob6mbtLQlpyPw0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872627461783-bpl43j5hrfcv91arjd1mmrcfj50mv1ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872627461783:android:214ed60ed54514be",
+        "android_client_info": {
+          "package_name": "com.example.khokan.ambulancetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872627461783-ndsu34v69huhghlckrha8v2ic02t2s2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khokan.ambulancetracking",
+            "certificate_hash": "207a8840446b03a0c0896e7f8aa13b8758b8bda8"
+          }
+        },
+        {
+          "client_id": "872627461783-bpl43j5hrfcv91arjd1mmrcfj50mv1ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDciqXU5vWrnogccUCob6mbtLQlpyPw0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872627461783-bpl43j5hrfcv91arjd1mmrcfj50mv1ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
